@@ -11,23 +11,23 @@ AJAX Solr is a JavaScript library for creating user interfaces to [Apache Solr][
 
 *add new example of solr interface examples/SolrJS.
 seed from example/reuter folder. 
-seed from example/reuter folder. 
+
 In addition to reuter example features,
-	It provide simple and advanced search function for Apache Solr application.
-	It provide a table view of search result.
-	all columns that have matching search text will automatically highlighted, sorted and show in left most columns in the table.
+	*It provide simple and advanced search function for Apache Solr application.
+	*It provide a table view of search result.
+	*All columns that have matching search text will automatically highlighted, sorted and show in left most columns in the table.
 		rest of columns will be sort alphabetically.
-	individual row could further show in pop up document view when clicked. only applicable fields for the row will be 
+	*Individual row could further show in pop up document view when clicked. only applicable fields for the row will be 
 		show in pop up document view.
-	it provide check box to turn on/off facet view.
-	Configurable facet fields, Automatic create and show facet navigation view base on facet fields configuration. 
-	Handle embedded hyper link content column in the table. content that starts with "http" will be handle as a link.
+	*It provide check box to turn on/off facet view.
+	* onfigurable facet fields- Automatic create and show facet navigation view base on facet fields configuration. 
+	*Handle embedded hyper link content column in the table. content that starts with "http" will be handle as a link.
 		handled contents include wave file, image file, and html file.
-	embedded facet link in the table header. 
-	added function to show/hide columns in a table.
-	added export data as csv/excel function. 
-	added offline helpful page to solr query syntax page. 
-	handled highlight text in search result, where solr highlight failed due to long text fields.
+	*embedded facet link in the table header. 
+	*added function to show/hide columns in a table.
+	*added export data as csv/excel function. 
+	*added offline helpful page to solr query syntax page. 
+	*handled highlight text in search result, where solr highlight failed due to long text fields.
  
 
  
